@@ -1,2 +1,4 @@
- 易經占卜 APK
+用openclaw自動開發的apk
+易經占卜 APK
 功能：輸入問題，透過擲筊獲得六爻結果，顯示本卦與變卦。技術：Kotlin + Android Studio，輸出約 5.3MB。
+
